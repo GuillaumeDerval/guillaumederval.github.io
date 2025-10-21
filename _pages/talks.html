@@ -11,6 +11,123 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+<div class="papers">
+
+<h2>Talks at conferences/workshops with proceedings</h2>
+<hr />
+{% assign posts = site.data.publications.published | sort: "title" | sort: "date" | reverse %}
+{% for post in posts %}
+  {% if post.slides == nil and post.noslide == nil %}
+    {% continue %}
+  {% endif %}
+<h3 class="paper" itemprop="headline">{{ post.title }}</h3>
+<p>
+  {% if post.author %}
+  <span class="authors">
+    {% for author in post.author %}
+    {% assign parts = author | split: ',' %}
+    {% if parts.size > 1 %}
+    {{ parts[1] | strip }} {{ parts[0] | strip }}{% unless forloop.last %}, {% endunless %}
+    {% else %}
+    {{ author | strip }}{% unless forloop.last %}, {% endunless %}
+    {% endif %}
+    {% endfor %}
+  </span>
+  <br />
+  {% endif %}
+  <span class="journal"><i>{{ post.parent.title }}</i></span>, <span class="date">{{ post.date }}</span>
+  {% if post.url %}
+  <a href="{{ post.url }}">[Paper link]</a>&nbsp;
+  {% endif %}
+  {% if post.preprint %}
+  <a href="{{ post.preprint }}">[Preprint]</a>&nbsp;
+  {% endif %}
+  {% if post.slides %}
+  <a href="{{ post.slides }}">[Slides]</a>&nbsp;
+  {% endif %}
+  {% if post.zenodo %}
+  <a href="{{ post.zenodo }}">[Data on Zenodo]</a>&nbsp;
+  {% endif %}
+  {% if post.github %}
+  <a href="{{ post.github }}">[Code on GitHub]</a>&nbsp;
+  {% endif %}
+</p>
 {% endfor %}
+
+<h2>Talks at conferences/workshops without proceedings</h2>
+<hr />
+{% assign posts = site.data.publications.presentations | sort: "title" | sort: "date" | reverse %}
+{% for post in posts %}
+<h3 class="paper" itemprop="headline">{{ post.title }}</h3>
+<p>
+  {% if post.author %}
+  <span class="authors">
+    {% for author in post.author %}
+    {% assign parts = author | split: ',' %}
+    {% if parts.size > 1 %}
+    {{ parts[1] | strip }} {{ parts[0] | strip }}{% unless forloop.last %}, {% endunless %}
+    {% else %}
+    {{ author | strip }}{% unless forloop.last %}, {% endunless %}
+    {% endif %}
+    {% endfor %}
+  </span>
+  <br />
+  {% endif %}
+  <span class="journal"><i>{{ post.parent.title }}</i></span>, <span class="date">{{ post.date }}</span>
+  {% if post.url %}
+  <a href="{{ post.url }}">[Slides]</a>&nbsp;
+  {% endif %}
+  {% if post.preprint %}
+  <a href="{{ post.preprint }}">[Preprint]</a>&nbsp;
+  {% endif %}
+  {% if post.slides %}
+  <a href="{{ post.slides }}">[Slides]</a>&nbsp;
+  {% endif %}
+  {% if post.zenodo %}
+  <a href="{{ post.zenodo }}">[Data on Zenodo]</a>&nbsp;
+  {% endif %}
+  {% if post.github %}
+  <a href="{{ post.github }}">[Code on GitHub]</a>&nbsp;
+  {% endif %}
+</p>
+{% endfor %}
+
+<h2>Talks outside scientific conferences and workshops</h2>
+<hr />
+{% assign posts = site.data.publications.presentations_out | sort: "title" | sort: "date" | reverse %}
+{% for post in posts %}
+<h3 class="paper" itemprop="headline">{{ post.title }}</h3>
+<p>
+  {% if post.author %}
+  <span class="authors">
+    {% for author in post.author %}
+    {% assign parts = author | split: ',' %}
+    {% if parts.size > 1 %}
+    {{ parts[1] | strip }} {{ parts[0] | strip }}{% unless forloop.last %}, {% endunless %}
+    {% else %}
+    {{ author | strip }}{% unless forloop.last %}, {% endunless %}
+    {% endif %}
+    {% endfor %}
+  </span>
+  <br />
+  {% endif %}
+  <span class="journal"><i>{{ post.parent.title }}</i></span>, <span class="date">{{ post.date }}</span>
+  {% if post.url %}
+  <a href="{{ post.url }}">[Slides]</a>&nbsp;
+  {% endif %}
+  {% if post.preprint %}
+  <a href="{{ post.preprint }}">[Preprint]</a>&nbsp;
+  {% endif %}
+  {% if post.slides %}
+  <a href="{{ post.slides }}">[Slides]</a>&nbsp;
+  {% endif %}
+  {% if post.zenodo %}
+  <a href="{{ post.zenodo }}">[Data on Zenodo]</a>&nbsp;
+  {% endif %}
+  {% if post.github %}
+  <a href="{{ post.github }}">[Code on GitHub]</a>&nbsp;
+  {% endif %}
+</p>
+{% endfor %}
+
+</div>

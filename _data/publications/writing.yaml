@@ -1,0 +1,50 @@
+- type: article
+  title: 'Distributed e-Fuel Hubs (DEFH): A Case Study of a Belgian Fischer-Tropsh liquids Hub'
+  author:
+  - Mokeddem, Samy
+  - Miftari, Bardhyl
+  - Derval, Guillaume
+  - Ernst, Damien
+  date: 2025
+  parent:
+    type: periodical
+    title: TBD
+- type: article
+  title: "SMR: a numerical model of a Belgian Lead-cooled Fast Reactor (LFR) designed for cogeneration in industrial applications"
+  author:
+  - Mouchamps, Antoine
+  - Derval, Guillaume
+  - Ernst, Damien
+  date: 2025
+  parent:
+    type: periodical
+    title: TBD
+- type: article
+  title: "Aperiodic tilings: a CP journey"
+  author:
+  - Lecoutre, Christophe
+  - Derval, Guillaume
+  date: 2025
+  parent:
+    type: periodical
+    title: AIJ or JAIR
+- type: article
+  title: "ICLF: An Immersive Code Learning Framework based on Git for Teaching and Evaluating Student Programming Projects"
+  author:
+  - Schaus, Pierre
+  - Delecluse, Augustin
+  - Derval, Guillaume
+  date: 2025
+  parent:
+    type: periodical
+    title: TDB
+- type: article
+  title: "The MaxiCP constraint programming solver"
+  author:
+  - Delecluse, Augustin
+  - Derval, Guillaume
+  - Schaus, Pierre
+  date: 2025
+  parent:
+    type: periodical
+    title: TDB

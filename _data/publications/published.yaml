@@ -1,0 +1,233 @@
+- type: article
+  title: Automatic grading of programming exercises in a MOOC using the INGInious platform
+  author:
+  - Derval, Guillaume
+  - Gego, Anthony
+  - Reinbold, Pierre
+  - Frantzen, Benjamin
+  - Van Roy, Peter
+  date: 2015
+  page-range: 86–91
+  parent:
+    type: proceedings
+    title: European Stakeholder Summit on experiences and best practices in and around MOOCs (EMOOCS’15)
+  url: "https://dial.uclouvain.be/pr/boreal/object/boreal:182120"
+  noslide: true
+- type: article
+  title: Embarassingly Parallel Search Reengineered
+  author:
+  - Derval, Guillaume
+  - Schaus, Pierre
+  - Régin, Jean-Charles
+  date: 2016
+  parent:
+    type: proceedings
+    title: Doctoral Program of the 22nd International Conference on Principles and Practice of Constraint Programming (CP 2016)
+  url: "https://dial.uclouvain.be/pr/boreal/object/boreal:182121"
+  noslide: true
+- type: article
+  title: Improved filtering for the bin-packing with cardinality constraint
+  author:
+  - Derval, Guillaume
+  - Régin, Jean-Charles
+  - Schaus, Pierre
+  date: 2018
+  page-range: 251–271
+  parent:
+    type: periodical
+    title: Constraints Journal (presented at the CP conference 2017)
+    publisher: Springer US
+    issue: 3
+    volume: 23
+  url: https://webperso.info.ucl.ac.be/~pschaus/assets/publi/constraints-cp17-binpacking.pdf
+  noslide: true
+- type: article
+  title: 'The maximum weighted submatrix coverage problem: A CP approach'
+  author:
+  - Derval, Guillaume
+  - Branders, Vincent
+  - Dupont, Pierre
+  - Schaus, Pierre
+  date: 2019
+  page-range: 258–274
+  parent:
+    type: proceedings
+    title: International conference on integration of constraint programming, artificial intelligence, and operations research (CPAIOR 2019)
+    organization: Springer, Cham
+  url: https://dial.uclouvain.be/pr/boreal/object/boreal:218893
+  noslide: true
+- type: article
+  title: An aggregate learning approach for interpretable semi-supervised population prediction and disaggregation using ancillary data
+  author:
+  - Derval, Guillaume
+  - Docquier, Frédéric
+  - Schaus, Pierre
+  date: 2019
+  page-range: 672–687
+  parent:
+    type: proceedings
+    title: Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD 2019)
+    organization: Springer, Cham
+  url: https://arxiv.org/abs/1907.00270
+  noslide: true
+- type: article
+  title: Mining a maximum weighted set of disjoint submatrices
+  author:
+  - Branders, Vincent
+  - Derval, Guillaume
+  - Schaus, Pierre
+  - Dupont, Pierre
+  date: 2019
+  page-range: 18–28
+  parent:
+    type: proceedings
+    title: International Conference on Discovery Science
+    organization: Springer, Cham
+  url: https://dial.uclouvain.be/pr/boreal/object/boreal:223472
+  noslide: true
+- type: article
+  title: 'Mining constrained regions of interest: An optimization approach'
+  author:
+  - Dubray, Alexandre
+  - Derval, Guillaume
+  - Nijssen, Siegfried
+  - Schaus, Pierre
+  date: 2020
+  page-range: 630–644
+  parent:
+    type: proceedings
+    title: International Conference on Discovery Science
+    organization: Springer, Cham
+  url: https://dial.uclouvain.be/pr/boreal/object/boreal:235261
+  noslide: true
+- type: article
+  title: Maximal-Sum submatrix search using a hybrid contraint programming/linear programming approach
+  author:
+  - Derval, Guillaume
+  - Schaus, Pierre
+  date: 2022
+  page-range: 853–865
+  parent:
+    type: periodical
+    title: European Journal of Operational Research
+    publisher: North-Holland
+    issue: 3
+    volume: 297
+  url: https://www.sciencedirect.com/science/article/pii/S0377221721005142
+- type: article
+  title: Optimal Decoding of Hidden Markov Models With Consistency Constraints
+  author:
+  - Dubray, Alexandre
+  - Derval, Guillaume
+  - Nijssen, Siegfried
+  - Schaus, Pierre
+  date: 2022
+  page-range: 407–417
+  parent:
+    type: proceedings
+    title: International Conference on Discovery Science
+    organization: Springer, Cham
+  url: https://dial.uclouvain.be/pr/boreal/object/boreal:264759
+  noslide: true
+- type: article
+  title: Nowcasting COVID-19 hospitalizations using Google Trends and LSTM
+  author:
+  - Derval, Guillaume
+  - François-Lavet, Vincent
+  - Schaus, Pierre
+  date: 2020
+  parent:
+    type: periodical
+    title: AI 4 Social Good workshop 2020
+  url: https://dial.uclouvain.be/pr/boreal/object/boreal:235257
+  noslide: true
+- type: article
+  title: Optimal control of renewable energy communities with controllable assets
+  author:
+  - Aittahar, Samy
+  - de Villena, Miguel Manuel
+  - Derval, Guillaume
+  - Castronovo, Michael
+  - Boukas, Ioannis
+  - Gemine, Quentin
+  - Ernst, Damien
+  date: 2023
+  url: https://orbi.uliege.be/handle/2268/264828
+  serial-number:
+    doi: 10.3389/fenrg.2023.879041
+    issn: 2296-598X
+  abstract: 'Introduction: The control of Renewable Energy Communities (REC) with controllable assets (e.g., batteries) can be formalised as an optimal control problem. This paper proposes a generic formulation for such a problem whereby the electricity generated by the community members is redistributed using repartition keys. These keys represent the fraction of the surplus of local electricity production (i.e., electricity generated within the community but not consumed by any community member) to be allocated to each community member. This formalisation enables us to jointly optimise the controllable assets and the repartition keys, minimising the combined total value of the electricity bills of the members.Methods: To perform this optimisation, we propose two algorithms aimed at solving an optimal open-loop control problem in a receding horizon fashion. Moreover, we also propose another approximated algorithm which only optimises the controllable assets (as opposed to optimising both controllable assets and repartition keys). We test these algorithms on Renewable Energy Communities control problems constructed from synthetic data, inspired from a real-life case of REC.Results: Our results show that the combined total value of the electricity bills of the members is greatly reduced when simultaneously optimising the controllable assets and the repartition keys (i.e., the first two algorithms proposed).Discussion: These findings strongly advocate the need for algorithms that adopt a more holistic standpoint when it comes to controlling energy systems such as renewable energy communities, co-optimising or jointly optimising them from both a traditional (very granular) control standpoint and a larger economic perspective.'
+  parent:
+    type: periodical
+    title: Frontiers in Energy Research
+    volume: 11
+- type: article
+  title: 'GBOML: a structure-exploiting optimization modelling language in Python'
+  author:
+  - Miftari, Bardhyl
+  - Berger, Mathias
+  - Derval, Guillaume
+  - Louveaux, Quentin
+  - Ernst, Damien
+  date: 2024
+  page-range: 1–30
+  parent:
+    type: periodical
+    title: Optimization Methods and Software
+    publisher: Taylor & Francis
+  url: https://orbi.uliege.be/handle/2268/296930
+- type: article
+  title: A review of the Constraint Programming MOOC on EdX
+  author:
+  - Delecluse, Augustin
+  - Derval, Guillaume
+  - Michel, Laurent
+  - Schaus, Pierre
+  - Van Hentenryck, Pascal
+  date: 2023
+  page-range: 14
+  parent:
+    type: proceedings
+    title: Workshop on Teaching Constraint Programming, WTCP 2023
+    volume: 1
+  url: https://dial.uclouvain.be/pr/boreal/object/boreal:278720
+  noslide: true
+- type: article
+  title: 'Symbolism for modelling, reformulations, and parallelism: MaxiCP-Modelling'
+  author:
+  - Derval, Guillaume
+  - Ernst, Damien
+  date: 2023
+  abstract: We present our ongoing work on MaxiCP-Modelling, a symbolic modelling layer for the MaxiCP solver. Models in MaxiCP-Modelling consist of a functional linked list of symbolic constraints; the models can later be concretised on an underlying solver. Decisions made during the resolution process can be progressively added to these lists to create new models that represent the current status of the solver. This mechanism creates a functional tree of models. We show how to take advantage of this framework in the context of parallel and distributed resolution, pre-processing, and the use of multiple types of solvers (hybridisation).
+  parent:
+    type: proceedings
+    title: The 22nd workshop on Constraint Modelling and Reformulation, ModRef 2023
+    location: Canada
+  url: https://orbi.uliege.be/handle/2268/308546
+  noslide: true
+- type: article
+  title: A unified definition of hosting capacity, applications and review
+  author:
+  - Benzerga, Amina
+  - Bahmanyar, Alireza
+  - Derval, Guillaume
+  - Ernst, Damien
+  date: 2024
+  parent:
+    type: periodical
+    title: IEEE Access
+  url: https://orbi.uliege.be/handle/2268/315915
+- type: article
+  title: 'Integration of offshore energy into national energy system: a case study on Belgium'
+  author:
+  - Mbenoun, Jocelyn
+  - Derval, Guillaume
+  - Detienne, Ghislain
+  - Deschuyteneer, Thierry
+  - Vazquez, Juan
+  - Ersnt, Damien
+  date: 2025
+  parent:
+    type: periodical
+    title: Applied Energy
+  url: https://doi.org/10.1016/j.apenergy.2024.125031

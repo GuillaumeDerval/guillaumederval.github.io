@@ -1,0 +1,51 @@
+- type: article
+  title: Optimal Sizing and Operations Of Energy Systems Using GBOML (Course)
+  author:
+  - Miftari, Bardhyl
+  - Derval, Guillaume
+  - Ernst, Damien
+  date: 2023
+  parent:
+    type: proceedings
+    title: One-day course at ULiège
+  url: https://orbi.uliege.be/handle/2268/299668
+- type: article
+  title: Sizing and Operations of Energy Systems Using GBOML
+  author:
+  - Miftari, Bardhyl
+  - Derval, Guillaume
+  - Ernst, Damien
+  date: 2023
+  parent:
+    type: proceedings
+    title: Company meetings @ULiège
+  url: https://orbi.uliege.be/handle/2268/304840
+- type: article
+  title: Hydrogen as the basis of Remote Renewable Energy Hubs
+  author:
+  - Dachet, Victor
+  - Miftari, Bardhyl
+  - Derval, Guillaume
+  - Ernst, Damien
+  date: 2023
+  parent:
+    type: proceedings
+    title: Club Industrie-Université 22/09/23
+  url: https://orbi.uliege.be/handle/2268/306826
+- type: article
+  title: Le partage d'énergie en copropriété
+  author: 
+  - Derval, Guillaume
+  date: 2023
+  parent:
+    type: proceedings
+    title: Université d'été Climactes 2023
+  url: https://orbi.uliege.be/handle/2268/303444
+- type: article
+  title: Les communautés d'énergie renouvelables et le partage d'énergie
+  author: 
+  - Derval, Guillaume
+  date: 2024
+  parent:
+    type: proceedings
+    title: Conférence Liège Créative 22/02/24

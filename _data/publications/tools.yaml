@@ -1,0 +1,23 @@
+- type: misc
+  title: 'OscaR: Scala in OR'
+  author: 
+  - Team, OscaR
+  date: 2012
+  url: https://bitbucket.org/oscarlib/oscar/wiki/Home
+- type: misc
+  title: MaxiCP, a Constraint Programming solver in Java
+  author: 
+  - Team, MaxiCP
+  date: 2021
+  url: https://github.com/minicp/minicp
+  urltype: github
+- type: misc
+  title: 'GBOML: A Structure-Exploiting Optimization Modelling Language in Python'
+  author:
+  - Miftari, Bardhyl
+  - Berger, Mathias
+  - Derval, Guillaume
+  - Ernst, Damien
+  date: 2022
+  url: https://github.com/GBOML/GBOML
+  urltype: github

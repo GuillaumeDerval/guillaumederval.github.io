@@ -1,0 +1,90 @@
+- type: article
+  title: Tutorial:“An Introduction To Sizing And Operations of Energy Systems with GBOML”
+  author:
+  - Miftari, Bardhyl
+  - Derval, Guillaume
+  - Ernst, Damien
+  date: 2023
+  parent:
+    type: proceedings
+    title: 2nd International workshop on" Open Source Modeling and Simulation of Energy Systems" OSMSES 2023
+  presenter: Miftari, Bardhyl
+  url: https://orbi.uliege.be/handle/2268/301220
+- type: article
+  title: 'Exploiting structure in MILP: a modeler’s perspective'
+  author:
+  - Miftari, Bardhyl
+  - Berger, Mathias
+  - Derval, Guillaume
+  - Ernst, Damien
+  date: 2023
+  parent:
+    type: proceedings
+    title: SIAM OP23
+  presenter: Miftari, Bardhyl
+  url: https://orbi.uliege.be/handle/2268/303651
+- type: article
+  title: 'Sensitivity analysis for linear changes of the constraint matrix of a linear program'
+  author:
+  - Miftari, Bardhyl
+  - Derval, Guillaume
+  - Louveaux, Quentin
+  - Ernst, Damien
+  date: 2024
+  parent:
+    type: proceedings
+    title: European Conference on Operational Research (EURO 2024)
+  presenter: Miftari, Bardhyl
+  url: https://orbi.uliege.be/handle/2268/321348
+- type: article
+  title: 'Parametric upper and lower bounds of linear variations of a linear problem’s LHS'
+  author:
+  - Miftari, Bardhyl
+  - Derval, Guillaume
+  - Louveaux, Quentin
+  - Ernst, Damien
+  date: 2024
+  parent:
+    type: proceedings
+    title: Annual Conference of the Belgian Operational Research Society (ORBEL 38)
+  presenter: Miftari, Bardhyl
+  url: https://orbi.uliege.be/handle/2268/313559
+- type: article
+  title: 'Efficient exact recomputation of linear modifications of the constraints matrix in Linear Programming'
+  author:
+  - Derval, Guillaume
+  - Miftari, Bardhyl
+  - Louveaux, Quentin
+  - Ernst, Damien
+  date: 2024
+  parent:
+    type: proceedings
+    title: European Conference on Operational Research (EURO 2024)
+  presenter: Derval, Guillaume
+  url: https://orbi.uliege.be/handle/2268/320287
+- type: article
+  title: 'GBOML: A modelling tool for structured MILPs'
+  author:
+  - Miftari, Bardhyl
+  - Derval, Guillaume
+  - Berger, Mathias
+  - Ernst, Damien
+  date: 2023
+  parent:
+    type: proceedings
+    title: Conference of the International Federation of Operational Research Societies (IFORS 2023)
+  presenter: Miftari, Bardhyl
+  url: https://orbi.uliege.be/handle/2268/309261
+- type: article
+  title: 'The journey of creating a modelling language'
+  author:
+  - Miftari, Bardhyl
+  - Derval, Guillaume
+  - Louveaux, Quentin
+  - Ernst, Damien
+  date: 2025
+  parent:
+    type: proceedings
+    title: 18th INFORMS Computing Society (ICS) Conference, 2025
+  presenter: Miftari, Bardhyl
+  url: https://orbi.uliege.be/bitstream/2268/329365/1/ICS.pdf

@@ -1,0 +1,70 @@
+- type: article
+  title: Sensitivity analysis for linear changes of the constraint matrix of a (mixed-integer) linear program
+  author:
+  - Miftari, Bardhyl
+  - Louveaux, Quentin
+  - Ernst, Damien
+  - Derval, Guillaume
+  date: 2025
+  parent:
+    type: periodical
+    title: Open Journal of Mathematical Optimization
+  url: https://arxiv.org/abs/2410.14443
+- type: article
+  title: Efficient LP warmstarting for linear modifications of the constraint matrix
+  author:
+  - Derval, Guillaume
+  - Miftari, Bardhyl
+  - Ernst, Damien
+  - Louveaux, Quentin
+  date: 2025
+  parent:
+    type: periodical
+    title: SIAM Journal on Optimization
+    url: https://arxiv.org/abs/2501.04151
+- type: article
+  title: Optimal Control of Renewable Energy Communities subject to Network Peak Fees with Model Predictive Control and Reinforcement Learning Algorithms
+  author:
+  - Aittahar, Samy
+  - Bolland, Adrien
+  - Derval, Guillaume
+  - Ernst, Damien
+  date: 2025
+  parent:
+    type: periodical
+    title: IEEE Access
+  url: https://arxiv.org/abs/2401.16321
+- type: article
+  title: 'Distributed e-Fuel Hubs (DEFH): A Case Study of a Belgian Fischer-Tropsh liquids Hub'
+  author:
+  - Mokeddem, Samy
+  - Miftari, Bardhyl
+  - Derval, Guillaume
+  - Ernst, Damien
+  date: 2025
+  parent:
+    type: periodical
+    title: Applied Energy
+- type: article
+  title: "Lead-cooled fast reactor SMR integration: An off-grid study case based on a real-life demand"
+  author:
+  - Larbanois, Antoine
+  - Miftari, Bardhyl
+  - Mouchamps, Antoine
+  - Kerem Enesb, Ayyildiz
+  - Schryvers, Vincent
+  - Derval, Guillaume
+  - Ernst, Damien
+  date: 2025
+  parent:
+    type: periodical
+    title: "Energy Conversion and Management: X"
+- type: article
+  title: "Aperiodic tilings: a CP journey"
+  author:
+  - Derval, Guillaume
+  - Lecoutre, Christophe
+  date: 2025
+  parent:
+    type: periodical
+    title: AAAI Conference on Artificial Intelligence 2026

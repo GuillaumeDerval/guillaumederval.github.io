@@ -1,0 +1,25 @@
+- type: misc
+  title: INGInious
+  author:
+  - Derval, Guillaume
+  - Gégo, Anthony
+  - Reinbold, Pierre
+  - contributors, Other
+  date: 2014
+  url: https://github.com/UCL-INGI/INGInious
+  urltype: github
+- type: misc
+  title: MiniCP
+  author: 
+  - Team, MiniCP
+  date: 2020
+  url: https://github.com/minicp/minicp
+  urltype: github
+- type: misc
+  title: JavaGrading
+  author: 
+  - Derval, Guillaume
+  - Delecluse, Augustin
+  date: 2017
+  url: https://github.com/GuillaumeDerval/JavaGrading
+  urltype: github
