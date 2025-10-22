@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher at the Smart Grids Lab from the University of Liège, Belgium, where I research Mathematical Modeling techniques to work on very large Energy Systems models under the supervision of Pr Damien Ernst. 
+I am currently a postdoctoral researcher at the Smart Grids Lab from the University of Liège, Belgium, where I research Mathematical Modeling techniques to work on very large Energy System models under the supervision of Pr Damien Ernst. 
 
 Specifically, I am the holder of an [SCK-CEN](https://www.sckcen.be) grant to work on the integration of Small Modular (Nuclear) Reactors in the Belgian energy landscape.
 
