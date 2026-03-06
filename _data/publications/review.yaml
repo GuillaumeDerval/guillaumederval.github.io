@@ -59,12 +59,3 @@
   parent:
     type: periodical
     title: "Energy Conversion and Management: X"
-- type: article
-  title: "Aperiodic tilings: a CP journey"
-  author:
-  - Derval, Guillaume
-  - Lecoutre, Christophe
-  date: 2025
-  parent:
-    type: periodical
-    title: AAAI Conference on Artificial Intelligence 2026

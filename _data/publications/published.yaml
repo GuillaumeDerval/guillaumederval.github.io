@@ -231,3 +231,12 @@
     type: periodical
     title: Applied Energy
   url: https://doi.org/10.1016/j.apenergy.2024.125031
+- type: article
+  title: "Aperiodic tilings: a CP journey"
+  author:
+  - Derval, Guillaume
+  - Lecoutre, Christophe
+  date: 2026
+  parent:
+    type: periodical
+    title: AAAI Conference on Artificial Intelligence 2026
