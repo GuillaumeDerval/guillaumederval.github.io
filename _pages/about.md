@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a postdoctoral researcher at the Smart Grids Lab from the University of Liège, Belgium, where I research Mathematical Modeling techniques to work on very large Energy System models under the supervision of Pr Damien Ernst. 
 
-Specifically, I am the holder of an [SCK-CEN](https://www.sckcen.be) grant to work on the integration of Small Modular (Nuclear) Reactors in the Belgian energy landscape.
+Specifically, I am the holder of an [SCK-CEN](https://www.sckcen.be) grant to work on optimization models for the integration of Small Modular (Nuclear) Reactors in the Belgian energy landscape.
 
 I was previously a visiting researcher at the CRIL, France, under the supervision of Pr Christophe Lecoutre. I hold a PhD in Computer Science & Engineering from UCLouvain, Belgium, obtained in 2021. It was made under the supervision of Pr Pierre Schaus.
 
@@ -23,7 +23,9 @@ Main interests:
   - **Parametric Programming**
   - Robust Optimization
   - Constraint Programming
-  - Cost-function Networks
+- Explainable AI
+  - **Human-model interaction**
+  - **Mathematical model transparency**
 - **Declarative (modeling) languages**
 - Algorithms & Data Structures
 - Large Energy Systems models
