@@ -88,13 +88,3 @@
     title: 18th INFORMS Computing Society (ICS) Conference, 2025
   presenter: Miftari, Bardhyl
   url: https://orbi.uliege.be/bitstream/2268/329365/1/ICS.pdf
-- type: article
-  title: 'Aperiodic tilings: a CP journey'
-  author:
-  - Derval, Guillaume
-  - Lecoutre, Christophe
-  date: 2026
-  parent:
-    type: proceedings
-    title: AAAI Conference on Artificial Intelligence 2026
-  presenter: Derval, Guillaume
