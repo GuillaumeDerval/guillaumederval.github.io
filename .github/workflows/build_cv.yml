@@ -7,27 +7,26 @@ on:
       - '_data/publications/**'
       - '.github/workflows/build_cv.yml'
 
-permissions:
-  contents: write
-
 jobs:
-  build:
-    runs-on: ubuntu-latest
+ build:
+   permissions:
+     contents: write
+   runs-on: ubuntu-latest
 
-    steps:
-    - uses: actions/checkout@v4
+   steps:
+   - uses: actions/checkout@v4
 
-    - name: Set up Typst
-      uses: typst-community/setup-typst@v5
+   - name: Set up Typst
+     uses: typst-community/setup-typst@v5
 
-    - name: Compile CV
-      run: |
-        typst compile --root . --font-path cv_source/fonts cv_source/cv.typ files/CV.pdf
+   - name: Compile CV
+     run: |
+       typst compile --root . --font-path cv_source/fonts cv_source/cv.typ files/CV.pdf
 
-    - name: Commit updated PDF
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add files/CV.pdf
-        git commit -m "Automated update of CV.pdf" || echo "No changes to commit"
-        git push
+   - name: Commit updated PDF
+     run: |
+       git config user.name "github-actions[bot]"
+       git config user.email "github-actions[bot]@users.noreply.github.com"
+       git add files/CV.pdf
+       git commit -m "Automated update of CV.pdf" || echo "No changes to commit"
+       git push
