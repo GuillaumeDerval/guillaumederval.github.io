@@ -2,6 +2,7 @@
 title: "Ora"
 excerpt: "Ora is a visual modeling platform allowing to build and analyze large hierarchical models. It is usable by domain experts directly."
 collection: projects
+order: 2
 ---
 
 Ora is a tool developed by the University of Liège at the request of (and in collaboration with) the FPS Economy – Energy, as part of a public tender - it is now maintained and improved independently as part of the [PiSTEM project](/projects/PiSTEM).

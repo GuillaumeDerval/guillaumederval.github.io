@@ -2,6 +2,7 @@
 title: "MaxiCP"
 excerpt: "MaxiCP is an open-source (MIT licence) Java-based Constraint Programming (CP) solver for solving scheduling and vehicle routing problems."
 collection: projects
+order: 6
 ---
 
 MaxiCP is an open-source (MIT licence) Java-based Constraint Programming (CP) solver for solving scheduling and vehicle routing problems, to which I am a contributor, particularly on the symbolic layer and EPS implementation (see below). 

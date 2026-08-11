@@ -2,6 +2,7 @@
 title: "PiSTEM"
 excerpt: "PiSTEM is a Belgian Energy-Transition-Fund-funded project that aims to improve the transparency of large energy models"
 collection: projects
+order: 1
 ---
 
 PiSTEM is a Belgian Energy-Transition-Fund-funded project that aims to improve the transparency of large energy models. It began in November 2025 and will end in October 2028.

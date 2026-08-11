@@ -2,6 +2,7 @@
 title: "INGInious"
 excerpt: "INGInious is an intelligent grader that allows secured and automated testing of code made by students."
 collection: projects
+order: 4
 ---
 
 [GitHub link](https://github.com/INGInious/INGInious)

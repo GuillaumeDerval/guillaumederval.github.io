@@ -2,6 +2,7 @@
 title: "INTEGRATION"
 excerpt: "The INTEGRATION model is a model of the Belgian Energy System in 2050, with a particular focus on offshore energy production, electricity, gas, and CO2."
 collection: projects
+order: 5
 ---
 
 

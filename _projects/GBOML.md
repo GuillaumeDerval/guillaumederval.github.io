@@ -2,6 +2,7 @@
 title: "GBOML"
 excerpt: "GBOML is a declarative mathematical modeling language built for modeling large hierarchical systems, such as energy systems"
 collection: projects
+order: 3
 ---
 
 [[GitHub link]](https://github.com/GBOML/GBOML)
