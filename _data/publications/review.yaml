@@ -20,8 +20,8 @@
   date: 2025
   parent:
     type: periodical
-    title: SIAM Journal on Optimization
-    url: https://arxiv.org/abs/2501.04151
+    title: 4OR
+  url: https://arxiv.org/abs/2501.04151
 - type: article
   title: Optimal Control of Renewable Energy Communities subject to Network Peak Fees with Model Predictive Control and Reinforcement Learning Algorithms
   author:
