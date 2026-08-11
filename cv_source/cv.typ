@@ -208,7 +208,8 @@
     align: (horizon+left, horizon+left, horizon+right),
     [2023], [*FNRS PDR* on sensitivity analysis ], [1 PhD student / 4 years],
     [2024], [*EPSx tender* from the FPS Economy in Belgium, to develop the Ora software], [3 FTEs / 1 year],
-    [2025], [*PiSTEM*, funded by the Energy Transition Fund], [2 PhD students + 0.5 FTE / 3 years]
+    [2025], [*PiSTEM*, funded by the Energy Transition Fund], [2 PhD students + 0.5 FTE / 3 years],
+    [2026], [*CORE-GRID*, funded by the Energy Transition Fund], [1 FTE / 3 years]
   )
 ]
 
