@@ -89,15 +89,15 @@
     row-gutter: 5pt,
     [
       *PhD in Computer Science and Engineering* [Teaching/Research assistant]
-    ], [2016-2021], [UCLouvain],
+    ], [2016-2021], [UCLouvain, BE],
     grid.cell(colspan: 3)[Thesis: "Finding Maximum Submatrices" #h(1fr) Supervisor: Pr. Pierre Schaus],
     [
       *Master in Computer Science and Engineering* [AI \& Data science/Applied mathematics]
-    ], [2014-2016], [UCLouvain],
+    ], [2014-2016], [UCLouvain, BE],
     grid.cell(colspan: 3)[Master's thesis: "Parallelization of constraint programming using embarrassingly parallel search" #h(1fr) Magna cum laude],
     [
       *Bachelor in Engineering*
-    ], [2011-2014], [UCLouvain]
+    ], [2011-2014], [UCLouvain, BE]
   )
 ]
 
@@ -117,7 +117,7 @@
   )
 }
 
-#pro-header("SCK-CEN SMR Chair holder [Postdoctoral researcher]", "ULiège", "Optimizing the integration of Small Modular (nuclear) Reactors (SMRs) in the Belgian Energy Landscape", "2024-now")
+#pro-header("SCK-CEN SMR Chair holder [Postdoctoral researcher]", "ULiège, BE", "Optimizing the integration of Small Modular (nuclear) Reactors (SMRs) in the Belgian Energy Landscape", "2024-now")
 - Development of tools and models to assess the possible integration of SMRs in Belgium.
 - #text(highlightColor)[*Focus on the extension of the GBOML (Graph-Based Optimization Modeling Language) language and the Ora platform to manage uncertainty and robustness considerations.*]
 - Lead researcher on the project for ULiège.
@@ -129,20 +129,20 @@
 #pro-header("Invited Researcher", "CRIL, University of Artois, FR", "Heuristics & models in CP / Aperiodic tilings", "Jan-Mar 2025")
 - At the CRIL laboratory of Pr. Christophe Lecoutre
 - Work on CP modeling of aperiodic tiling & heuristics; resulting paper accepted for an oral presentation at AAAI 2026.
-#pro-header("Postdoctoral researcher", "ULiège", "IntegCER & INTEGRATION projects (Funded by the Walloon Region / the Energy Transition Fund, BE)", "2022-2024")
+#pro-header("Postdoctoral researcher", "ULiège, BE", "IntegCER & INTEGRATION projects (Funded by the Walloon Region / the Energy Transition Fund, BE)", "2022-2024")
 - IntegCER was an industrial project in collaboration with ENGIE, RESA and Haulogy, on the integration of Renewable Energy Communities in Wallonia. The aim of the project is to create the necessary tools and models for the planning of investments and the operational management of such a community, both on an economic level (billing) and a technical level (operations of production and storage means).
 - INTEGRATION was an Energy Transition Fund-funded project which lead to the creation of the INTEGRATION model of the Belgian Energy System in 2050.
 - #text(highlightColor)[*Development of GBOML (Graph-Based Optimization Modeling Language).*]
 - Co-supervision of a team of 4 PhD students.
 - Grant writing (Horizon Europe, InterReg, PDR, ...)
-#pro-header("Invited lecturer", "UCLouvain", "LINFO1103 - Introduction to Algorithms", "2022-2023 and 2023-2024")
+#pro-header("Invited lecturer", "UCLouvain, BE", "LINFO1103 - Introduction to Algorithms", "2022-2023 and 2023-2024")
 - Course from the Louvain School of Engineering (EPL), mainly intended for first-year students in computer science.
 - Introduction to basic concepts of algorithms and data structures, complexity.
 - The course is attended by students from various backgrounds, mostly future computer science bachelors, but also future bachelors in mathematics, biology, architecture, business engineering, and future masters in linguistics. 293 students took the course in 2022-2023, 255 in 2023-2024.
-#pro-header("Invited lecturer", "UCLouvain", "LINFO1121 - Algorithms and Data Structures", "2020-2021")
+#pro-header("Invited lecturer", "UCLouvain, BE", "LINFO1121 - Algorithms and Data Structures", "2020-2021")
 - Course from the Louvain School of Engineering, mainly intended for third-year students of civil engineering and computer science bachelor's degrees.
 - The course was attended by 224 students.
-#pro-header("Research Assistant", "UCLouvain", "Thesis 'Finding Maximum Submatrices'", "2016-2021")
+#pro-header("Research Assistant", "UCLouvain, BE", "Thesis 'Finding Maximum Submatrices'", "2016-2021")
 - Finding submatrices with maximum sum; a problem related to biomedical research (DNA micro-arrays).
 - Development of new Constraint Programming methods.
 
@@ -160,42 +160,42 @@
     [2022-2024], 
       [LINFO1103], 
       [Introduction to algorithms (FR)],
-      [EPL, UCLouvain],
+      [EPL, UCLouvain, BE],
     [2020-2021], 
       [LINFO1121], 
       [Data structures and algorithms (FR)],
-      [EPL, UCLouvain],
+      [EPL, UCLouvain, BE],
     grid.cell(colspan: 5)[],
     grid.cell(rowspan: 8)[Teaching assistant], 
 
     [2023-2024],
       [ELEC0080-1],
       [Energy networks (EN)],
-      [FSA, ULiège],
+      [FSA, ULiège, BE],
     [2021-2022],
       [INFO0902],
       [Data structures and algorithms (FR)],
-      [FSA, ULiège],
+      [FSA, ULiège, BE],
     [2016-2020],
       [LINFO1121],
       [Data structures and algorithms (FR)],
-      [EPL, UCLouvain],
+      [EPL, UCLouvain, BE],
     [2017-2020],
       [LINFO2365],
       [Constraint Programming (EN)],
-      [EPL, UCLouvain],
+      [EPL, UCLouvain, BE],
     [2019-2020],
       [LEPL1402],
       [Computer Science 2 (FR)],
-      [EPL, UCLouvain],
+      [EPL, UCLouvain, BE],
     [2016-2019],
       [LINFO2132],
       [Languages and translators (EN)],
-      [EPL, UCLouvain],
+      [EPL, UCLouvain, BE],
     [2017-2018],
       [LINFO1113],
       [Numerical algorithms (FR)],
-      [EPL, UCLouvain],
+      [EPL, UCLouvain, BE],
   )
 ]
 
