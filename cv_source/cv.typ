@@ -123,6 +123,9 @@
 - Lead researcher on the project for ULiège.
 - Co-supervision of a team of 4 PhD students.
 - Grant writing (Horizon Europe, InterReg, PDR, ETF, ...)
+#pro-header("Visiting Postdoctoral Scholar", "MS&E, Stanford University, USA", "Explainable comparisons between large mathematical models", "July 2026-January 2027")
+- At the laboratory of Pr. Madeleine Udell
+- Work on model comparison and usage of machine learning to learn how to solve unit commitment problems
 #pro-header("Invited Researcher", "CRIL, University of Artois, FR", "Heuristics & models in CP / Aperiodic tilings", "Jan-Mar 2025")
 - At the CRIL laboratory of Pr. Christophe Lecoutre
 - Work on CP modeling of aperiodic tiling & heuristics; resulting paper accepted for an oral presentation at AAAI 2026.
