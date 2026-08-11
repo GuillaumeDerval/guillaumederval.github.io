@@ -7,6 +7,9 @@ on:
       - '_data/publications/**'
       - '.github/workflows/build_cv.yml'
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
