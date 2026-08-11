@@ -46,16 +46,50 @@
     type: periodical
     title: Applied Energy
 - type: article
-  title: "Lead-cooled fast reactor SMR integration: An off-grid study case based on a real-life demand"
+  title: Analyzing changes in optimal variables in linear programming with uncertain parameters
   author:
-  - Larbanois, Antoine
-  - Miftari, Bardhyl
-  - Mouchamps, Antoine
-  - Kerem Enesb, Ayyildiz
-  - Schryvers, Vincent
+  - Istace, Baptiste
   - Derval, Guillaume
-  - Ernst, Damien
-  date: 2025
+  - Miftari, Bardhyl
+  - Louveaux, Quentin
+  date: 2026
   parent:
     type: periodical
-    title: "Energy Conversion and Management: X"
+    title: arXiv preprint
+  url: https://arxiv.org/abs/2606.18830
+- type: article
+  title: 'ICLF: An Immersive Code Learning Framework based on Git for Teaching and Evaluating Student Programming Projects'
+  author:
+  - Schaus, Pierre
+  - Derval, Guillaume
+  - Delecluse, Augustin
+  date: 2026
+  parent:
+    type: periodical
+    title: arXiv preprint
+  url: https://arxiv.org/abs/2601.14814
+- type: article
+  title: 'MaxiCP: A Not So Mini Constraint Programming Solver'
+  author:
+  - Schaus, Pierre
+  - Derval, Guillaume
+  - Delecluse, Augustin
+  - Michel, Laurent
+  - Van Hentenryck, Pascal
+  date: 2026
+  parent:
+    type: periodical
+    title: Technical report
+  url: https://aia-uclouvain.github.io/maxicp/tech-report/maxicp.pdf
+- type: article
+  title: Post-Solve Auditing of Solver-Successful Optimization Models with Evidence-Grounded Language Models
+  author:
+  - Tayachi, Ahmed
+  - Miftari, Bardhyl
+  - Louveaux, Quentin
+  - Ernst, Damien
+  - Derval, Guillaume
+  date: 2026
+  parent:
+    type: periodical
+    title: AAAI Conference on Artificial Intelligence 2027

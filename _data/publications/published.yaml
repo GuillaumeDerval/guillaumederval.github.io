@@ -170,12 +170,15 @@
   - Louveaux, Quentin
   - Ernst, Damien
   date: 2024
-  page-range: 1–30
+  page-range: 227-256
   parent:
     type: periodical
     title: Optimization Methods and Software
     publisher: Taylor & Francis
-  url: https://orbi.uliege.be/handle/2268/296930
+    issue: 1
+    volume: 39
+  url: https://doi.org/10.1080/10556788.2023.2246169
+  preprint: https://orbi.uliege.be/handle/2268/296930
 - type: article
   title: A review of the Constraint Programming MOOC on EdX
   author:
@@ -212,33 +215,75 @@
   - Bahmanyar, Alireza
   - Derval, Guillaume
   - Ernst, Damien
-  date: 2024
+  date: 2025
+  page-range: 7819-7836
   parent:
     type: periodical
     title: IEEE Access
-  url: https://orbi.uliege.be/handle/2268/315915
+    volume: 13
+  url: https://doi.org/10.1109/ACCESS.2024.3521223
+  preprint: https://orbi.uliege.be/handle/2268/315915
 - type: article
   title: 'Integration of offshore energy into national energy system: a case study on Belgium'
   author:
   - Mbenoun, Jocelyn
-  - Derval, Guillaume
+  - Benzerga, Amina
+  - Miftari, Bardhyl
   - Detienne, Ghislain
   - Deschuyteneer, Thierry
   - Vazquez, Juan
-  - Ersnt, Damien
+  - Derval, Guillaume
+  - Ernst, Damien
   date: 2025
+  page-range: 125031
   parent:
     type: periodical
     title: Applied Energy
+    volume: 382
   url: https://doi.org/10.1016/j.apenergy.2024.125031
 - type: article
-  title: "Aperiodic tilings: a CP journey"
+  title: "Aperiodic Tiling and Rhythmic Canons: A CP Journey"
   author:
-  - Derval, Guillaume
   - Lecoutre, Christophe
+  - Derval, Guillaume
   date: 2026
+  page-range: 14209-14216
   parent:
     type: periodical
-    title: AAAI Conference on Artificial Intelligence 2026
-  url: https://orbi.uliege.be/bitstream/2268/340287/1/Tiling-8.pdf
+    title: Proceedings of the AAAI Conference on Artificial Intelligence
+    volume: 40
+    issue: 17
+  url: https://doi.org/10.1609/aaai.v40i17.38434
+  preprint: https://orbi.uliege.be/bitstream/2268/340287/1/Tiling-8.pdf
   noslide: true
+- type: article
+  title: 'Lead-cooled fast reactor SMR integration: An off-grid study case based on a real-life demand'
+  author:
+  - Larbanois, Antoine
+  - Miftari, Bardhyl
+  - Mouchamps, Antoine
+  - Kerem Enes, Ayyildiz
+  - Schryvers, Vincent
+  - Derval, Guillaume
+  - Ernst, Damien
+  date: 2026
+  page-range: 102143
+  parent:
+    type: periodical
+    title: 'Energy Conversion and Management: X'
+    volume: 31
+  url: https://doi.org/10.1016/j.ecmx.2026.102143
+- type: article
+  title: 'Towards the integration of small modular reactors in industrial hubs: A multi-dimensional discussion'
+  author:
+  - Larbanois, Antoine
+  - Miftari, Bardhyl
+  - Derval, Guillaume
+  - Ernst, Damien
+  date: 2026
+  page-range: 104859
+  parent:
+    type: periodical
+    title: Energy Research & Social Science
+    volume: 139
+  url: https://doi.org/10.1016/j.erss.2026.104859

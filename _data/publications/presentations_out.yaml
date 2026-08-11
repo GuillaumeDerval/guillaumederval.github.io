@@ -43,9 +43,31 @@
   url: https://orbi.uliege.be/handle/2268/303444
 - type: article
   title: Les communautés d'énergie renouvelables et le partage d'énergie
-  author: 
+  author:
   - Derval, Guillaume
   date: 2024
   parent:
     type: proceedings
     title: Conférence Liège Créative 22/02/24
+- type: article
+  title: "Energie: L'avenir des infrastructures gazières et électriques"
+  author:
+  - Ernst, Damien
+  - Dachet, Victor
+  - Derval, Guillaume
+  - Téchy, Thibaut
+  date: 2025
+  parent:
+    type: proceedings
+    title: Meeting of the boards
+- type: article
+  title: "Energie: De toekomst van de infrastructuur voor gas en elektriciteit"
+  author:
+  - Ernst, Damien
+  - Dachet, Victor
+  - Derval, Guillaume
+  - Téchy, Thibaut
+  date: 2025
+  parent:
+    type: proceedings
+    title: Meeting of the boards

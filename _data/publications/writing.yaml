@@ -19,32 +19,3 @@
   parent:
     type: periodical
     title: TBD
-- type: article
-  title: "Aperiodic tilings: a CP journey"
-  author:
-  - Lecoutre, Christophe
-  - Derval, Guillaume
-  date: 2025
-  parent:
-    type: periodical
-    title: AIJ or JAIR
-- type: article
-  title: "ICLF: An Immersive Code Learning Framework based on Git for Teaching and Evaluating Student Programming Projects"
-  author:
-  - Schaus, Pierre
-  - Delecluse, Augustin
-  - Derval, Guillaume
-  date: 2025
-  parent:
-    type: periodical
-    title: TDB
-- type: article
-  title: "The MaxiCP constraint programming solver"
-  author:
-  - Delecluse, Augustin
-  - Derval, Guillaume
-  - Schaus, Pierre
-  date: 2025
-  parent:
-    type: periodical
-    title: TDB

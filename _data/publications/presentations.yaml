@@ -88,3 +88,90 @@
     title: 18th INFORMS Computing Society (ICS) Conference, 2025
   presenter: Miftari, Bardhyl
   url: https://orbi.uliege.be/bitstream/2268/329365/1/ICS.pdf
+- type: article
+  title: 'Distributed e-fuel hubs: Concept and case study'
+  author:
+  - Mokeddem, Samy
+  - Miftari, Bardhyl
+  - Dachet, Victor
+  - Derval, Guillaume
+  - Ernst, Damien
+  date: 2025
+  parent:
+    type: proceedings
+    title: European Conference on Operational Research (EURO 2025)
+  presenter: Mokeddem, Samy
+  url: https://orbi.uliege.be/handle/2268/327044
+- type: article
+  title: 'Sensitivity analysis for linear changes of the constraint matrix of an LP/MIP'
+  author:
+  - Derval, Guillaume
+  - Miftari, Bardhyl
+  - Ernst, Damien
+  date: 2026
+  parent:
+    type: proceedings
+    title: Annual Conference of the Belgian Operational Research Society (ORBEL 40)
+  presenter: Derval, Guillaume
+- type: article
+  title: Stochastic batch scheduling in an industrial context
+  author:
+  - Hervers, Florent
+  - Derval, Guillaume
+  - Louveaux, Quentin
+  - Renard, Xavier
+  date: 2026
+  parent:
+    type: proceedings
+    title: Conference of the International Federation of Operational Research Societies (IFORS 2026)
+  presenter: Hervers, Florent
+- type: article
+  title: LLM-Driven Auditing of Optimization Models
+  author:
+  - Tayachi, Ahmed
+  - Louveaux, Quentin
+  - Derval, Guillaume
+  - Miftari, Bardhyl
+  - Ernst, Damien
+  date: 2026
+  parent:
+    type: proceedings
+    title: Conference of the International Federation of Operational Research Societies (IFORS 2026)
+  presenter: Tayachi, Ahmed
+- type: article
+  title: Analyzing changes in optimal variables in linear programming with uncertain parameters
+  author:
+  - Istace, Baptiste
+  - Derval, Guillaume
+  - Miftari, Bardhyl
+  - Louveaux, Quentin
+  date: 2026
+  parent:
+    type: proceedings
+    title: Conference of the International Federation of Operational Research Societies (IFORS 2026)
+  presenter: Istace, Baptiste
+- type: article
+  title: 'Techno-Economic and Life Cycle Assessment of Renewable Hydrogen Production: A Belgian Case Study'
+  author:
+  - Barras, Justin
+  - Miftari, Bardhyl
+  - Derval, Guillaume
+  - Ernst, Damien
+  - Léonard, Angélique
+  date: 2026
+  parent:
+    type: proceedings
+    title: Conference of the International Federation of Operational Research Societies (IFORS 2026)
+  presenter: Barras, Justin
+- type: article
+  title: Sensitivity analysis for linear changes of the constraint matrix of a (mixed-integer) linear program
+  author:
+  - Louveaux, Quentin
+  - Derval, Guillaume
+  - Ernst, Damien
+  - Miftari, Bardhyl
+  date: 2026
+  parent:
+    type: proceedings
+    title: Conference of the International Federation of Operational Research Societies (IFORS 2026)
+  presenter: Louveaux, Quentin
