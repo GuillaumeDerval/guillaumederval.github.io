@@ -1,10 +1,10 @@
 - type: article
   title: Sensitivity analysis for linear changes of the constraint matrix of a (mixed-integer) linear program
   author:
-  - Miftari, Bardhyl
-  - Louveaux, Quentin
-  - Ernst, Damien
   - Derval, Guillaume
+  - Ernst, Damien
+  - Louveaux, Quentin
+  - Miftari, Bardhyl
   date: 2025
   parent:
     type: periodical
